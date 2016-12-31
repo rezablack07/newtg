@@ -31,7 +31,7 @@ chmod +x tg
 Open ./bot.lua and add your ID to the "sudo_users" section in the following format:
 ```
   sudo_users = {
-[272970544] = '[Ee][Rr][Oo][Rr][Rr]_[Yy][Ee][Ss]',
+[193068389] = '[Ee][Rr][Oo][Rr][Rr]_[Yy][Ee][Ss]',
 }
 
 ```
